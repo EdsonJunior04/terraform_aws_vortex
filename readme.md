@@ -12,9 +12,9 @@ Criar uma solução capaz de:
 
 ## **Infraestrutura Utilizada**
 
-| NTopNG | Grafana | Ubuntu | InfluxDB | AWS | Python | Terraform | Docker | Github |
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|
-| <img src="https://i0.wp.com/www.ntop.org/wp-content/uploads/2015/05/ntopng-logo.png?ssl=1" title="ntopng" alt="ntopng" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu" alt="Ubuntu" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="influxdb" alt="influxdb" width="55" height="55"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" title="aws" alt="AWS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="Terraform" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="Docker" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> |
+| NTopNG | Grafana | Ubuntu | Debian | InfluxDB | AWS | Python | Terraform | Docker | Github |
+|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| <img src="https://i0.wp.com/www.ntop.org/wp-content/uploads/2015/05/ntopng-logo.png?ssl=1" title="ntopng" alt="ntopng" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="grafana" alt="Grafana" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=ubuntu" title="ubuntu" alt="Ubuntu" width="55" height="55">| <img src="https://skillicons.dev/icons?i=debian" title="debian" alt="Debian" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="influxdb" alt="influxdb" width="55" height="55"> | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" title="aws" alt="AWS" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" alt="Terraform" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="Docker" width="55" height="55"> | <img src="https://skillicons.dev/icons?i=github" title="github" alt="GitHub" width="55" height="55"> |
 
 
 ### **On-Premises**
@@ -105,13 +105,10 @@ Criar uma solução capaz de:
 
 ---
 
-## **Próximos Passos**
+## **Colaboradores**
 
-- Implementar criptografia TLS para as conexões entre os serviços.
-- Automatizar a geração e envio de relatórios por e-mail.
-
----
-
-## **Licença**
-
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+- [Edson Maciel](https://github.com/EdsonJunior04) 
+- [Laura Alvez](https://github.com/Laura-alvez) 
+- [Levi Venancio](https://github.com/levivenancio) 
+- [Lucca Gentilezza](https://github.com/LuccaVG) 
+- [Rebeca Jaine](https://github.com/jainezd) 
